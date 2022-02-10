@@ -8,7 +8,7 @@ function setup() {
   noStroke();
   rectMode(CENTER);
   frameRate(20);    
-  window.alert('Welcome to my Art 151 Project 1.\nThere are mutiple way of using this webpage \n  1. Drag your mouse across the page.\n  2. You can use Key R to change color\n  3. You can use your left arrow and right arrow\n  4. You can use Key A or D to change the shape');
+  window.alert('Welcome to my Art 151 Project 1 - Mini Moving Kaleidoscope.\nThere are mutiple way of using this webpage \n  1. Drag your mouse across the page.\n  2. You can use Key R to change color\n  3. You can use your left arrow and right arrow\n  4. You can use Key A or D to change the shape');
   r = random(255);
   g = random(100,200);
   b = random(100);
